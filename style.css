@@ -167,22 +167,13 @@ button:hover {
     transform: scale(1.1);
     box-shadow: 0 4px 8px rgba(204,153,255,0.5);
 }
-.container {
- display: flex;
- align-items: center; 
- text-align: auto;
-}
+
 img {
     max-width: 100%; 
     height: auto; 
     display: block;  
     margin: 0 auto;  
-.container img {
-    margin-top: 1%;
-    margin-right: 7%;
-    width: 10%;
-    height: 10%;
-}
+
 .projects {
     position: relative;
     display: flex;
