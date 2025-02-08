@@ -172,6 +172,11 @@ button:hover {
  align-items: center; 
  text-align: auto;
 }
+img {
+    max-width: 100%; 
+    height: auto; 
+    display: block;  
+    margin: 0 auto;  
 .container img {
     margin-top: 1%;
     margin-right: 7%;
