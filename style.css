@@ -152,6 +152,9 @@ b {
     margin: 30px;
     font-size: 3rem;
 }
+c { 
+    color : black
+}
 button {
     background-color: whitesmoke;
     color: whitesmoke;
