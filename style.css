@@ -154,9 +154,9 @@ b {
     font-size: 3rem;
 }
 button {
-    color: whitesmoke;
+    color:black;
     border: black;
-    border-radius: 10%;
+    border-radius: 5%;
     top: 20%;
     padding: 1px 10px;
     margin: 18px;
