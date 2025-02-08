@@ -19,19 +19,7 @@
     0%, 100% { opacity: 0.3; }
     50% { opacity: 1; }
 }
-
 .planet {
-    margin-left: 80%;
-    top: 90%;
-    width: 50px;
-    height: 50px;
-    background: radial-gradient(circle at 30% 30%, #4e9af1, #3f1a5d);
-    border-radius: 50%;
-    box-shadow: 0% 0% 50% rgba(78, 154, 241, 0.8), 0 0 60px rgba(128, 55, 196, 0.5);
-    animation: glow 3s infinite alternate ease-in-out;
-}
-
-.planet2 {
     margin-left: 90%;
     top: 90%;
     width: 20px;
@@ -39,17 +27,6 @@
     background: radial-gradient(circle at 30% 30%, #1c91ff, #f317c3);
     border-radius: 50%;
     box-shadow: 0% 0% 50% rgba(115, 199, 19, 0.8), 0 0 60px rgba(55, 156, 196, 0.5);
-    animation: glow 3s infinite alternate ease-in-out;
-}
-
-.planet3 {
-    margin-left: 70%;
-    top: 50%;
-    width: 30px;
-    height: 30px;
-    background: radial-gradient(circle at 30% 30%, #6a1275, #f317c3);
-    border-radius: 50%;
-    box-shadow: 0% 0% 50% rgba(31, 26, 59, 0.8), 0 0 60px rgba(128, 55, 196, 0.5);
     animation: glow 3s infinite alternate ease-in-out;
 }
 
