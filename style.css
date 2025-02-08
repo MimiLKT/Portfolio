@@ -185,10 +185,6 @@ button2:hover {
     transform: scale(1.1);
     box-shadow: 0 4px 8px rgba(204,153,255,0.5);
 }
-section {
-    marging-right : 20%;
-    border: whitesmoke;
-}
 .container {
  display: flex;
  align-items: center; 
@@ -210,6 +206,7 @@ img {
 .projectStarFire {
     background-image: radial-gradient(76,3,200,0.5);
     border: 1px solid #444;
+    border-color: white;
     border-radius: 8px;
     padding: 1em;
     box-shadow: 0 4px 4px rgba(25, 25, 26, 0.3);
@@ -229,7 +226,7 @@ img {
     padding-left: 20%;
 }
 footer {
-    height: 100px; /* Hauteur du footer */
+    height: 100px;
     background-color: #000;
     color: #fff;
     text-align: center;
