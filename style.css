@@ -153,6 +153,7 @@ b {
     font-size: 3rem;
 }
 button {
+    background-color: whitesmoke;
     color: whitesmoke;
     border: black;
     border-radius: 5%;
