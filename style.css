@@ -185,6 +185,10 @@ button2:hover {
     transform: scale(1.1);
     box-shadow: 0 4px 8px rgba(204,153,255,0.5);
 }
+section {
+    marging-right : 20%;
+    border: whitesmoke;
+}
 .container {
  display: flex;
  align-items: center; 
