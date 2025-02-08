@@ -26,7 +26,7 @@
     height: 20px;
     background: radial-gradient(circle at 30% 30%, #1c91ff, #f317c3);
     border-radius: 50%;
-    box-shadow: 0% 0% 50% rgba(115, 199, 19, 0.8), 0 0 60px rgba(55, 156, 196, 0.5);
+    box-shadow: 0% 20% 50% rgba(115, 199, 19, 0.8), 0 0 60px rgba(55, 156, 196, 0.5);
     animation: glow 3s infinite alternate ease-in-out;
 }
 
